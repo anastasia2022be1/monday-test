@@ -4,3 +4,6 @@
 - Patrick
 - Stefanie
 
+- Nicolas
+- Marek
+- Toni
