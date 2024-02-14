@@ -2,3 +2,5 @@
 - Pacome 
 - Anastasia
 - Patrick
+- Stefanie
+
